@@ -1,0 +1,9 @@
+dependencies:
+- name: mysql
+  repository: https://charts.bitnami.com/bitnami
+  version: 12.0.1
+- name: external-secrets
+  repository: https://charts.external-secrets.io
+  version: 0.10.7
+digest: sha256:79b8782966b880f6194f4ef2531372bf818c8044067f758ae923c0fdd4906751
+generated: "2024-11-26T10:10:28.030580341+03:00"
